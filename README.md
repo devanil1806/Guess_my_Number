@@ -1,2 +1,1 @@
-# Guess_my_Number
-using Js guess the number...
+https://brave-leavitt-a38f64.netlify.app
